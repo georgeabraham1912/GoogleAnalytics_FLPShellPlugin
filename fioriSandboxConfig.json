@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"GoogleAnalytics_FLPShellPlugin": {
+			"component": "com.googleanalytics.flp.shell.plugin",
+			"url": "../../../../../"
+		}
+	}
+}
